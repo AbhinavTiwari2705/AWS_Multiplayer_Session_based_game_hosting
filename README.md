@@ -57,3 +57,6 @@ After deploying, you can test the system by running the game client and making A
 #### User Authentication: Secure authentication using Amazon Cognito.
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
+
+## Explanation
+https://github.com/user-attachments/assets/75362cc0-746b-448c-9796-5870329ca009
